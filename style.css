@@ -7,3 +7,7 @@
   right: 0;
   background: rgba(0, 0, 0, 0.37);
 }
+.imgItem img {
+  height: 600px;
+  object-fit: cover;
+}
